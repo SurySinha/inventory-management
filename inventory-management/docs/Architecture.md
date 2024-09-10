@@ -1,5 +1,3 @@
-## Note: Please install Mermaid Extension for looking at the Diagrams. 
-
 # Order Management System Analysis and Improved Architecture
 
 ## Current State Analysis
@@ -50,7 +48,7 @@ graph TD
 
 ## Proposed DOM Architecture with Kafka
 
-To address the overselling issues and improve overall system performance, we propose a new architecture based on a Distributed Order Management (DOM) system using Kafka as the central message bus.
+To address the overselling issues and improve overall system performance, I can propose a new architecture based on a Distributed Order Management (DOM) system using Kafka as the central message bus.
 
 ### Enhanced DOM Architecture Diagram
 
